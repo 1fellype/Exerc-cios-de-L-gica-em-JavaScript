@@ -8,6 +8,7 @@
     - Estruturas de controle 
     - Laços de repetição.
  - Exercícios realizados durante o curso PROPROFISSÃO.
+ - Apostila FACAAT e Manzano
 
 ## Tecnologias
 - JavaScript
